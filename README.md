@@ -1,2 +1,3 @@
+# My First Repo
 This is my first project.
-This project is about learning Git.
+This project is about learning Git
